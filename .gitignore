@@ -115,3 +115,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+/en.openfoodfacts.org.products.tsv
+aapl.pdf
+aapl.png
+aapl.svg
+sunspots.csv
+sunspots.tsv
+sunspots.xlsx
